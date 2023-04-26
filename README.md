@@ -1,10 +1,7 @@
 # Embedded Systems Design Studio
 An exhibition of my labs and projects for my second-year electrical engineering firmware design course. *Note that for most files uploaded, only the main and/or final version of the code is shown. Supporting make files and/or header files are **not** uploaded.* 
 
-**Microcontrollers Used:**
-LCD Experimentation, Alarm Clock, & LM335 Thermometer: *AT89LP51RC2*
-Capacitance Meter with EFM8LB1 & Phasor Analysis: *EFM8LB1*
-Capacitance Meter with PIC32MX130: *PIC32MX130*
+**Microcontrollers Used:** *AT89LP51RC2*, *EFM8LB1*, *PIC32MX130*, *ATMEGA328P*. 
 
 ## LCD Experimentation
 Displays my name and student number on a seven-segment liquid crystal display (LCD). For privacy reasons, my name and number are replaced with a space of type '*char*'.
